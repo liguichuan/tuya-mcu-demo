@@ -1,3 +1,8 @@
+# tuya-mcu-demo
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
+#
+这个项目是使用涂鸦SDK开发的，它可以让您快速开发连接和控制许多设备的智能场景的品牌应用程序。有关更多信息，请访问涂鸦开发者网站。
+#
 
 ## 注意：当前仓库继承自即将被废弃的涂鸦Github仓库：xxxxxx，请使用当前 Github 仓库进行涂鸦 SDK相关开发。更换远程Github仓库URL的教程，可以参考：https://github.com/TuyaInc/tuya-weapp-demo
 
